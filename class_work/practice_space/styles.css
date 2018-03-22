@@ -1,0 +1,14 @@
+body {
+	background: black;
+	color: white;
+}
+h1 {
+	color:orange;
+	text-align: center;
+	margin: 70px;
+	padding: 30px;
+	border: 5px solid cyan;
+	border-width: 90px;
+	border-left: 80px;
+
+}
